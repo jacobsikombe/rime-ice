@@ -129,7 +129,7 @@ Thanks to JetBrains for the OSS development license.
 
 <br>
 
-## 赞助 ☕
+## 赞助 
 
 如果觉得项目不错，可以请 Dvel 吃个煎饼馃子。
 
